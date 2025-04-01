@@ -5,4 +5,4 @@ This project focused on building a robust data anonymization pipeline to enable 
 
 To facilitate a data science initiative for CBA and InsightSpark, I developed a privacy pipeline to anonymize sensitive customer data from the CBA mobile app before its integration with supermarket transactional data. This project addressed the critical need for data privacy, focusing on preventing linkage attacks and ensuring compliance. By implementing robust anonymization techniques, I enabled secure data sharing while preserving the data's utility for analytical purposes.
 
-![Image Alt]()
+![Image Alt](https://github.com/eziukwuinnocent/Data-Anonymization-Pipeline-for-Customer-and-Transactional-Data-Integration/blob/ab57faddb02c96e5b6eb0c29f324ad3ef6dc0f95/Excel_Anonymization.jpg)
