@@ -14,3 +14,7 @@ Key aspects of the project included:
 3. Ensuring the anonymized data maintained its analytical utility for data science initiatives.
 4. Thorough testing and validation to guarantee the effectiveness of the anonymization process.
 5. Research and application of best practices regarding linkage attacks prevention.
+
+View Anonymized Data below:
+
+https://1drv.ms/x/c/0579c03518772c33/ETcmUXi-j6FHnVXhDr8pHcwBrMmHe3d1XIstZUCCVR0BIA?e=miZ9Bm&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0
