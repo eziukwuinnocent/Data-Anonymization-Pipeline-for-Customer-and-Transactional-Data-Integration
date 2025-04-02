@@ -1,4 +1,4 @@
-# Data-Anonymization-Pipeline-for-Customer-and-Transactional-Data-Integration
+# Data Anonymization Pipeline for Customer and Transactional Data Integration
 ![Image Alt](https://github.com/eziukwuinnocent/Data-Anonymization-Pipeline-for-Customer-and-Transactional-Data-Integration/blob/c95fd9012a724a6cafdac5e7b1123ce78772a902/Data-Protection-Act-705x430.jpg)
 
 This project focused on building a robust data anonymization pipeline to enable CBA and InsightSpark to combine customer data from the CBA mobile app with supermarket transactional data.
